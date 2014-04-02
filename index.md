@@ -70,15 +70,15 @@ Volunteer Consent
 
 If you agree to participate as a volunteer as described above and subject to all terms, please sign below:
 
-___________________________
+<div>___________________________</div>
 (Printed name)
 
-___________________________
+<div>___________________________</div>
 (Signed name)
 
-___________________________
+<div>___________________________</div>
 (Date)
 
 
 
-[^1] pending approval from the 7 Delano Ethics Board for Use of Human Subjects
+[^1]: pending approval from the 7 Delano Ethics Board for Use of Human Subjects
