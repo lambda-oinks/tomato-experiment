@@ -3,6 +3,7 @@ title: Tomatoes: Research for My Next Startup
 date: 2014-04-01
 author: Oinkina
 mathjax: on
+published: true
 ---
 
 If you see me in the kitchen snacking, there will likely be juice and seeds dripping down my chin. I love tomatoes and have been exalting their many benefits and superior snacking qualities for many, many years. 
