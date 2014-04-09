@@ -8,7 +8,7 @@ published: true
 
 If you see me in the kitchen snacking, there will likely be juice and seeds dripping down my chin. I love tomatoes and have been exalting their many benefits and superior snacking qualities for many, many years. 
 
-<div class="centerimgcontainer">
+<div class="bigcenterimgcontainer">
 <img src="/posts/2014-04-01-tomato-experiment/tomatoes.jpg" alt="Freshly cut tomatoes" style="">
 <div class="caption">Freshly cut tomatoes. And the best game ever.</div>
 </div>
@@ -96,13 +96,13 @@ If you have any questions about the study, you may contact Oinkina or Chris at 7
 
 At 22:30, the experiment commenced.
 
-<div class="centerimgcontainer">
+<div class="bigcenterimgcontainer">
 <img src="/posts/2014-04-01-tomato-experiment/after_tasting.jpg" alt="Experiment" style="">
 <div class="caption">Experiment setup, after tasting</div>
 </div>
 Tomato slices were tasted and results were tallied. 
 
-<div class="centerimgcontainer" style="height:275px">
+<div class="bigcenterimgcontainer">
 <img src="/posts/2014-04-01-tomato-experiment/results.jpg" alt="Results" style="">
 <div class="caption">Results of the experiment.</div>
 </div>
